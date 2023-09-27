@@ -1,5 +1,5 @@
-# Predicting individualized treatment effects of corticosteroids in community-acquired-pneumonia
-This repo contains the trained scaler, imputer and logistic regression model which will be further validated using the data of the trials by Meduri et al.[1] and Dequin et al.[2] 
+# Predicting individualized treatment effects of corticosteroids in community-acquired-pneumonia: a data-driven analysis of randomized controlled trials
+This repo contains the penalized logistic regression models (and corresponding trained scalers and imputers) which will be further validated using the data of the trials by Meduri et al.[1] and Dequin et al.[2] 
 
 The notebook 'show_trained_model.ipynb' shows details of the saved scaler, imputer and model objects.
 
